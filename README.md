@@ -1,4 +1,4 @@
-### Minimum Grafana with Tempo setup
+### Minimum docker-compose setup for Grafana with Tempo
 
 This is a minimal setup to run Grafana with Tempo. It uses the official Grafana and Tempo images.
 I pinned the versions to the following:
