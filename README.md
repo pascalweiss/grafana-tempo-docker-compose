@@ -18,4 +18,5 @@ GRAFANA_VERSION=latest TEMPO_VERSION=latest docker-compose up
 ```
 
 #### Data persistence
-Tempo data is stored in the `tempo-data` volume. 
+Tempo data is stored in the `tempo-data` volume, which is created in the same directory as the `docker-compose.yml` 
+file when you run `docker-compose up`.
