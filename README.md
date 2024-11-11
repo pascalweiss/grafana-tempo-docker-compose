@@ -17,3 +17,5 @@ For example, to run it with Grafana and Tempo latest versions, you can do
 GRAFANA_VERSION=latest TEMPO_VERSION=latest docker-compose up
 ```
 
+#### Data persistence
+Tempo data is stored in the `tempo-data` volume. 
