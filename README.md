@@ -6,7 +6,7 @@ I pinned the versions to the following:
 - Tempo: 2.6.1
 
 #### How to run
-To start it up, simply do
+To start it up, simply do:
 ```bash
 docker-compose up
 ```
